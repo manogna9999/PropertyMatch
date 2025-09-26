@@ -1,4 +1,8 @@
 # PropertyMatch CRM
+View the complete Documentation of the project of all the 10 Phases :
+
+https://docs.google.com/document/d/1akMBSJSBrUDXJxOOCXKFZLnBUPPgsl4eAavSRy7giVk/edit?usp=sharing
+
 # Overview
 
 PropertyMatch is a Salesforce real estate app built with Lightning Web Components, Apex, and Flows.
