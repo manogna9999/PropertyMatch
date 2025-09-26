@@ -1,7 +1,7 @@
-🏡 Dreamhouse LWC CRM
+# PropertyMatch CRM
 # Overview
 
-Dreamhouse CRM is a Salesforce real estate app built with Lightning Web Components, Apex, and Flows.
+PropertyMatch is a Salesforce real estate app built with Lightning Web Components, Apex, and Flows.
 Users can search properties with filters, view details on Google Maps, and brokers receive automatic email alerts when assigned.
 
 # Features
